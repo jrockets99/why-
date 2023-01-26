@@ -89,7 +89,3 @@ plugin://plugin.video.madtitansports/uktvnow/play/489
 
 #EXTINF:-1 group-title="entertainment"tvg-id="Nicktoons.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/Nicktoons.png",NICKTOONS 2
 plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXTFbL0NPTE9SXSlOaWNrVG9vbnMgVVMoW0NPTE9ScGlua11SYXBpZHR2Wy9DT0xPUl0pWy9DT0xPUl0iLCAidGh1bWJuYWlsIjogIiIsICJzcG9ydGpldGV4dHJhY3RvcnMiOiBbImRpcmVjdDovL2h0dHA6Ly90di5yYXBpZGlwdHYudHZpcC54eXo6ODAvQmxJbTIxNTY0L2FnZjdGcDI2NC8yNzQ1NyhOaWNrVG9vbnMgVVMoW0NPTE9ScGlua11SYXBpZHR2Wy9DT0xPUl0pIC0gW0NPTE9SbGltZV0xWy9DT0xPUl0pIl19
-
-#EXTINF:-1 group-title="entertainment" tvg-id="NONE" tvg-logo="",NICK JR TEST
-plugin://plugin.video.madtitansports/sportjetextractors/play?urls=plugin%3A%2F%2Fplugin.video.madtitansports%2Fsportjetextractors%2Fplay%3Furls%3Dhttp%3A%2F%2Fcbd46b77.cdn.cms.movetv.com%2Fcms%2Fapi%2Fchannels%2F591d24e3b5894961b4c9e9a78c454db6%2Fschedule%2Fnow%2Fplayback_info.qvt%28%5BCOLORorange%5D%5BCOLORwhite%5DNICK+JR%5B%2FCOLOR%5D%29%2A%2A%2Aplugin%3A%2F%2Fplugin.video.madtitansports%2Fxtream_server%2Fsearch_dialog%2Fus%3Fquery%3DNICK+JR+%28%5BCOLORgreen%5DTAILS%7C+%5B%2FCOLOR%5DNICK+JR++%7C%29%2A%2A%2Ahttps%3A%2F%2Fdaddylive.eu%2Fstream%2Fstream-329.php%28%5BCOLORff845da5%5DCLICK%7C+%5BCOLORwhite%5DNICK+JR+%5B%2FCOLOR%5D+-+%5BCOLORdodgerblue%5DDIRECT%7CCLICK%5B%2FCOLOR%5D%29
-
