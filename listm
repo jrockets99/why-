@@ -58,7 +58,7 @@ plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUi
 plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddyhd.com%2F%2Fstream%2Fstream-54.php
 
 #EXTINF:-1 group-title="entertainment"tvg-id="FX.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/FX.png",FX
-plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddyhd.com%2F%2Fstream%2Fstream-317.php
+http://nmstreaming.live:25461/restreamiptv/EYTbwgHD8K/2113563
 
 #EXTINF:-1 group-title="entertainment"tvg-id="FXX.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/FXX.png",FXX
 plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXTFbL0NPTE9SXSlGWFggSEQgVVMoW0NPTE9ScGlua11SYXBpZHR2Wy9DT0xPUl0pWy9DT0xPUl0iLCAidGh1bWJuYWlsIjogIiIsICJzcG9ydGpldGV4dHJhY3RvcnMiOiBbImRpcmVjdDovL2h0dHA6Ly90di5yYXBpZGlwdHYudHZpcC54eXo6ODAvQmxJbTIxNTY0L2FnZjdGcDI2NC8xMzA5NyhGWFggSEQgVVMoW0NPTE9ScGlua11SYXBpZHR2Wy9DT0xPUl0pIC0gW0NPTE9SbGltZV0xWy9DT0xPUl0pIl19
@@ -195,112 +195,112 @@ plugin://plugin.video.madtitansports/play_video/eyJ0aXRsZSI6ICJbQ09MT1JibHVlXTEy
 #EXTINF:-1 group-title="movies"tvg-id="HBO.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/HBO.png",HBO
 plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddyhd.com%2F%2Fstream%2Fstream-321.php
 
-#EXTINF:-1 group-title="movies"tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/HBO.png",HBO Zone HD
-plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IEhCTyBab25lIEhEWy9DT0xPUl0iLCAidGh1bWJuYWlsIjogIiIsICJzcG9ydGpldGV4dHJhY3RvcnMiOiBbImpldHByb3h5Oi8vaHR0cDovL25tc3RyZWFtaW5nLmxpdmU6MjU0NjEvcmVzdHJlYW1pcHR2L0VZVGJ3Z0hEOEsvMTcyNTAoVVMgfCBIQk8gWm9uZSBIRCAtIFtDT0xPUmxpbWVdKG5tc3RyKVsvQ09MT1JdKSJdfQ==
-
-#EXTINF:-1 group-title="movies"tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/HBO.png",HBO Zone
-plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IEhCTyBab25lWy9DT0xPUl0iLCAidGh1bWJuYWlsIjogIiIsICJzcG9ydGpldGV4dHJhY3RvcnMiOiBbImpldHByb3h5Oi8vaHR0cDovL25tc3RyZWFtaW5nLmxpdmU6MjU0NjEvcmVzdHJlYW1pcHR2L0VZVGJ3Z0hEOEsvMTczMDYoVVMgfCBIQk8gWm9uZSAtIFtDT0xPUmxpbWVdKG5tc3RyKVsvQ09MT1JdKSJdfQ==
-
-#EXTINF:-1 group-title="movies"tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/HBO.png",HBO Signature HD
-plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IEhCTyBTaWduYXR1cmUgSERbL0NPTE9SXSIsICJ0aHVtYm5haWwiOiAiIiwgInNwb3J0amV0ZXh0cmFjdG9ycyI6IFsiamV0cHJveHk6Ly9odHRwOi8vbm1zdHJlYW1pbmcubGl2ZToyNTQ2MS9yZXN0cmVhbWlwdHYvRVlUYndnSEQ4Sy8xNzI1MyhVUyB8IEhCTyBTaWduYXR1cmUgSEQgLSBbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSkiXX0=
-
-#EXTINF:-1 group-title="movies"tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/HBO.png",HBO Signature
-plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IEhCTyBTaWduYXR1cmVbL0NPTE9SXSIsICJ0aHVtYm5haWwiOiAiIiwgInNwb3J0amV0ZXh0cmFjdG9ycyI6IFsiamV0cHJveHk6Ly9odHRwOi8vbm1zdHJlYW1pbmcubGl2ZToyNTQ2MS9yZXN0cmVhbWlwdHYvRVlUYndnSEQ4Sy8xNzI1MihVUyB8IEhCTyBTaWduYXR1cmUgLSBbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSkiXX0=
-
-#EXTINF:-1 group-title="movies"tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/HBO.png",HBO HD
+#EXTINF:-1 group-title="movies"tvg-id="HBO.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/HBO.png",HBO HD
 plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IEhCTyBIRFsvQ09MT1JdIiwgInRodW1ibmFpbCI6ICIiLCAic3BvcnRqZXRleHRyYWN0b3JzIjogWyJqZXRwcm94eTovL2h0dHA6Ly9ubXN0cmVhbWluZy5saXZlOjI1NDYxL3Jlc3RyZWFtaXB0di9FWVRid2dIRDhLLzE3MjU0KFVTIHwgSEJPIEhEIC0gW0NPTE9SbGltZV0obm1zdHIpWy9DT0xPUl0pIl19
 
-#EXTINF:-1 group-title="movies"tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/HBO.png",HBO Family HD
-plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IEhCTyBGYW1pbHkgSERbL0NPTE9SXSIsICJ0aHVtYm5haWwiOiAiIiwgInNwb3J0amV0ZXh0cmFjdG9ycyI6IFsiamV0cHJveHk6Ly9odHRwOi8vbm1zdHJlYW1pbmcubGl2ZToyNTQ2MS9yZXN0cmVhbWlwdHYvRVlUYndnSEQ4Sy8xNzI1NShVUyB8IEhCTyBGYW1pbHkgSEQgLSBbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSkiXX0=
+#EXTINF:-1 group-title="movies"tvg-id="HBO Zone.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/HBO.png",HBO Zone HD
+plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IEhCTyBab25lIEhEWy9DT0xPUl0iLCAidGh1bWJuYWlsIjogIiIsICJzcG9ydGpldGV4dHJhY3RvcnMiOiBbImpldHByb3h5Oi8vaHR0cDovL25tc3RyZWFtaW5nLmxpdmU6MjU0NjEvcmVzdHJlYW1pcHR2L0VZVGJ3Z0hEOEsvMTcyNTAoVVMgfCBIQk8gWm9uZSBIRCAtIFtDT0xPUmxpbWVdKG5tc3RyKVsvQ09MT1JdKSJdfQ==
 
-#EXTINF:-1 group-title="movies"tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/HBO.png",HBO FAMILY
+#EXTINF:-1 group-title="movies"tvg-id="HBO Zone.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/HBO.png",HBO Zone
+plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IEhCTyBab25lWy9DT0xPUl0iLCAidGh1bWJuYWlsIjogIiIsICJzcG9ydGpldGV4dHJhY3RvcnMiOiBbImpldHByb3h5Oi8vaHR0cDovL25tc3RyZWFtaW5nLmxpdmU6MjU0NjEvcmVzdHJlYW1pcHR2L0VZVGJ3Z0hEOEsvMTczMDYoVVMgfCBIQk8gWm9uZSAtIFtDT0xPUmxpbWVdKG5tc3RyKVsvQ09MT1JdKSJdfQ==
+
+#EXTINF:-1 group-title="movies"tvg-id="HBO Signature.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/HBO.png",HBO Signature
+plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IEhCTyBTaWduYXR1cmVbL0NPTE9SXSIsICJ0aHVtYm5haWwiOiAiIiwgInNwb3J0amV0ZXh0cmFjdG9ycyI6IFsiamV0cHJveHk6Ly9odHRwOi8vbm1zdHJlYW1pbmcubGl2ZToyNTQ2MS9yZXN0cmVhbWlwdHYvRVlUYndnSEQ4Sy8xNzI1MihVUyB8IEhCTyBTaWduYXR1cmUgLSBbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSkiXX0=
+
+#EXTINF:-1 group-title="movies"tvg-id="HBO Signature.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/HBO.png",HBO Signature HD
+plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IEhCTyBTaWduYXR1cmUgSERbL0NPTE9SXSIsICJ0aHVtYm5haWwiOiAiIiwgInNwb3J0amV0ZXh0cmFjdG9ycyI6IFsiamV0cHJveHk6Ly9odHRwOi8vbm1zdHJlYW1pbmcubGl2ZToyNTQ2MS9yZXN0cmVhbWlwdHYvRVlUYndnSEQ4Sy8xNzI1MyhVUyB8IEhCTyBTaWduYXR1cmUgSEQgLSBbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSkiXX0=
+
+#EXTINF:-1 group-title="movies"tvg-id="HBO Family.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/HBO.png",HBO FAMILY
 plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IEhCTyBGYW1pbHlbL0NPTE9SXSIsICJ0aHVtYm5haWwiOiAiIiwgInNwb3J0amV0ZXh0cmFjdG9ycyI6IFsiamV0cHJveHk6Ly9odHRwOi8vbm1zdHJlYW1pbmcubGl2ZToyNTQ2MS9yZXN0cmVhbWlwdHYvRVlUYndnSEQ4Sy8xNzMwNShVUyB8IEhCTyBGYW1pbHkgLSBbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSkiXX0=
 
-#EXTINF:-1 group-title="movies"tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/HBO.png",HBO EAST HD
+#EXTINF:-1 group-title="movies"tvg-id="HBO Family.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/HBO.png",HBO Family HD
+plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IEhCTyBGYW1pbHkgSERbL0NPTE9SXSIsICJ0aHVtYm5haWwiOiAiIiwgInNwb3J0amV0ZXh0cmFjdG9ycyI6IFsiamV0cHJveHk6Ly9odHRwOi8vbm1zdHJlYW1pbmcubGl2ZToyNTQ2MS9yZXN0cmVhbWlwdHYvRVlUYndnSEQ4Sy8xNzI1NShVUyB8IEhCTyBGYW1pbHkgSEQgLSBbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSkiXX0=
+
+#EXTINF:-1 group-title="movies"tvg-id="HBO.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/HBO.png",HBO EAST HD
 plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IEhCTyBFYXN0IEhEWy9DT0xPUl0iLCAidGh1bWJuYWlsIjogIiIsICJzcG9ydGpldGV4dHJhY3RvcnMiOiBbImpldHByb3h5Oi8vaHR0cDovL25tc3RyZWFtaW5nLmxpdmU6MjU0NjEvcmVzdHJlYW1pcHR2L0VZVGJ3Z0hEOEsvMTcyNTYoVVMgfCBIQk8gRWFzdCBIRCAtIFtDT0xPUmxpbWVdKG5tc3RyKVsvQ09MT1JdKSJdfQ==
 
-#EXTINF:-1 group-title="movies"tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/HBO.png",HBO COMEDY HD
-plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IEhCTyBDb21lZHkgSERbL0NPTE9SXSIsICJ0aHVtYm5haWwiOiAiIiwgInNwb3J0amV0ZXh0cmFjdG9ycyI6IFsiamV0cHJveHk6Ly9odHRwOi8vbm1zdHJlYW1pbmcubGl2ZToyNTQ2MS9yZXN0cmVhbWlwdHYvRVlUYndnSEQ4Sy8xNzI1NyhVUyB8IEhCTyBDb21lZHkgSEQgLSBbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSkiXX0=
-
-#EXTINF:-1 group-title="movies"tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/HBO.png",HBO COMEDY
+#EXTINF:-1 group-title="movies"tvg-id="HBO Comedy.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/HBO.png",HBO COMEDY
 plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IEhCTyBDb21lZHlbL0NPTE9SXSIsICJ0aHVtYm5haWwiOiAiIiwgInNwb3J0amV0ZXh0cmFjdG9ycyI6IFsiamV0cHJveHk6Ly9odHRwOi8vbm1zdHJlYW1pbmcubGl2ZToyNTQ2MS9yZXN0cmVhbWlwdHYvRVlUYndnSEQ4Sy8xNzMwNChVUyB8IEhCTyBDb21lZHkgLSBbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSkiXX0=
 
-#EXTINF:-1 group-title="movies"tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/HBO.png",HBO 2 WEST
+#EXTINF:-1 group-title="movies"tvg-id="HBO Comedy.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/HBO.png",HBO COMEDY HD
+plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IEhCTyBDb21lZHkgSERbL0NPTE9SXSIsICJ0aHVtYm5haWwiOiAiIiwgInNwb3J0amV0ZXh0cmFjdG9ycyI6IFsiamV0cHJveHk6Ly9odHRwOi8vbm1zdHJlYW1pbmcubGl2ZToyNTQ2MS9yZXN0cmVhbWlwdHYvRVlUYndnSEQ4Sy8xNzI1NyhVUyB8IEhCTyBDb21lZHkgSEQgLSBbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSkiXX0=
+
+#EXTINF:-1 group-title="movies"tvg-id="HBO 2.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/HBO.png",HBO 2 WEST
 plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IEhCTyAyIFdlc3RbL0NPTE9SXSIsICJ0aHVtYm5haWwiOiAiIiwgInNwb3J0amV0ZXh0cmFjdG9ycyI6IFsiamV0cHJveHk6Ly9odHRwOi8vbm1zdHJlYW1pbmcubGl2ZToyNTQ2MS9yZXN0cmVhbWlwdHYvRVlUYndnSEQ4Sy8xNzI1OChVUyB8IEhCTyAyIFdlc3QgLSBbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSkiXX0=
 
-#EXTINF:-1 group-title="movies"tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/HBO.png",HBO
+#EXTINF:-1 group-title="movies"tvg-id="HBO.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/HBO.png",HBO
 plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IEhCT1svQ09MT1JdIiwgInRodW1ibmFpbCI6ICIiLCAic3BvcnRqZXRleHRyYWN0b3JzIjogWyJqZXRwcm94eTovL2h0dHA6Ly9ubXN0cmVhbWluZy5saXZlOjI1NDYxL3Jlc3RyZWFtaXB0di9FWVRid2dIRDhLLzE3MjUxKFVTIHwgSEJPIC0gW0NPTE9SbGltZV0obm1zdHIpWy9DT0xPUl0pIl19
 
-#EXTINF:-1 group-title="movies"tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/HMM.png",HALLMARK MOVIES
+#EXTINF:-1 group-title="movies"tvg-id="Hallmark Movies.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/HMM.png",HALLMARK MOVIES
 plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IEhhbGxtYXJrIE1vdmllcyAmIE15c3RlcmllcyBIRFsvQ09MT1JdIiwgInRodW1ibmFpbCI6ICIiLCAic3BvcnRqZXRleHRyYWN0b3JzIjogWyJqZXRwcm94eTovL2h0dHA6Ly9ubXN0cmVhbWluZy5saXZlOjI1NDYxL3Jlc3RyZWFtaXB0di9FWVRid2dIRDhLLzE3MTgwKFVTIHwgSGFsbG1hcmsgTW92aWVzICYgTXlzdGVyaWVzIEhEIC0gW0NPTE9SbGltZV0obm1zdHIpWy9DT0xPUl0pIl19
 
-#EXTINF:-1 group-title="movies"tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/Paramount.png",PARAMOUNT HD
+#EXTINF:-1 group-title="movies"tvg-id="Paramount.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/Paramount.png",PARAMOUNT HD
 plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IFBhcmFtb3VudCBIRFsvQ09MT1JdIiwgInRodW1ibmFpbCI6ICIiLCAic3BvcnRqZXRleHRyYWN0b3JzIjogWyJqZXRwcm94eTovL2h0dHA6Ly9ubXN0cmVhbWluZy5saXZlOjI1NDYxL3Jlc3RyZWFtaXB0di9FWVRid2dIRDhLLzE3MjMxKFVTIHwgUGFyYW1vdW50IEhEIC0gW0NPTE9SbGltZV0obm1zdHIpWy9DT0xPUl0pIl19
 
 #EXTINF:-1 group-title="movies"tvg-id="Showtime.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/Showtime.png",SHOWTIME
 plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddyhd.com%2F%2Fstream%2Fstream-333.php
 
-#EXTINF:-1 group-title="movies"tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/Showtime.png",SHOWTIME 2
+#EXTINF:-1 group-title="movies"tvg-id="Showtime 2.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/Showtime.png",SHOWTIME 2
 plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IFNob3d0aW1lIDIgSERbL0NPTE9SXSIsICJ0aHVtYm5haWwiOiAiIiwgInNwb3J0amV0ZXh0cmFjdG9ycyI6IFsiamV0cHJveHk6Ly9odHRwOi8vbm1zdHJlYW1pbmcubGl2ZToyNTQ2MS9yZXN0cmVhbWlwdHYvRVlUYndnSEQ4Sy8xOTcyMjgoVVMgfCBTaG93dGltZSAyIEhEIC0gW0NPTE9SbGltZV0obm1zdHIpWy9DT0xPUl0pIl19
 
-#EXTINF:-1 group-title="movies"tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/Showtime.png",SHOWTIME EXTREME HD
+#EXTINF:-1 group-title="movies"tvg-id="Showtime Extreme.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/Showtime.png",SHOWTIME EXTREME HD
 plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IFNob3d0aW1lIEV4dHJlbWUgSERbL0NPTE9SXSIsICJ0aHVtYm5haWwiOiAiIiwgInNwb3J0amV0ZXh0cmFjdG9ycyI6IFsiamV0cHJveHk6Ly9odHRwOi8vbm1zdHJlYW1pbmcubGl2ZToyNTQ2MS9yZXN0cmVhbWlwdHYvRVlUYndnSEQ4Sy8xOTY0MjAoVVMgfCBTaG93dGltZSBFeHRyZW1lIEhEIC0gW0NPTE9SbGltZV0obm1zdHIpWy9DT0xPUl0pIl19
 
-#EXTINF:-1 group-title="movies"tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/Showtime.png",SHOWTIME FAMILY ZONE
+#EXTINF:-1 group-title="movies"tvg-id="Showtime Family.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/Showtime.png",SHOWTIME FAMILY ZONE
 plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IFNob3d0aW1lIEZhbWlseSBab25lIEhEWy9DT0xPUl0iLCAidGh1bWJuYWlsIjogIiIsICJzcG9ydGpldGV4dHJhY3RvcnMiOiBbImpldHByb3h5Oi8vaHR0cDovL25tc3RyZWFtaW5nLmxpdmU6MjU0NjEvcmVzdHJlYW1pcHR2L0VZVGJ3Z0hEOEsvMTcyMjYoVVMgfCBTaG93dGltZSBGYW1pbHkgWm9uZSBIRCAtIFtDT0xPUmxpbWVdKG5tc3RyKVsvQ09MT1JdKSJdfQ==
 
-#EXTINF:-1 group-title="movies"tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/Showtime.png",SHOWTIME HD
+#EXTINF:-1 group-title="movies"tvg-id="Showtime.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/Showtime.png",SHOWTIME HD
 plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IFNob3d0aW1lIEhEWy9DT0xPUl0iLCAidGh1bWJuYWlsIjogIiIsICJzcG9ydGpldGV4dHJhY3RvcnMiOiBbImpldHByb3h5Oi8vaHR0cDovL25tc3RyZWFtaW5nLmxpdmU6MjU0NjEvcmVzdHJlYW1pcHR2L0VZVGJ3Z0hEOEsvMTcyMjUoVVMgfCBTaG93dGltZSBIRCAtIFtDT0xPUmxpbWVdKG5tc3RyKVsvQ09MT1JdKSJdfQ==
 
-#EXTINF:-1 group-title="movies"tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/Showtime.png",SHOWTIME NEXT HD
+#EXTINF:-1 group-title="movies"tvg-id="Showtime Next.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/Showtime.png",SHOWTIME NEXT HD
 plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IFNob3d0aW1lIE5leHQgSERbL0NPTE9SXSIsICJ0aHVtYm5haWwiOiAiIiwgInNwb3J0amV0ZXh0cmFjdG9ycyI6IFsiamV0cHJveHk6Ly9odHRwOi8vbm1zdHJlYW1pbmcubGl2ZToyNTQ2MS9yZXN0cmVhbWlwdHYvRVlUYndnSEQ4Sy8xOTcyMzIoVVMgfCBTaG93dGltZSBOZXh0IEhEIC0gW0NPTE9SbGltZV0obm1zdHIpWy9DT0xPUl0pIl19
 
-#EXTINF:-1 group-title="movies"tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/Showtime.png",SHOWTIME SHOWCASE
+#EXTINF:-1 group-title="movies"tvg-id="Showtime Showcase.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/Showtime.png",SHOWTIME SHOWCASE
 plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IFNob3d0aW1lIFNob3djYXNlIEhEWy9DT0xPUl0iLCAidGh1bWJuYWlsIjogIiIsICJzcG9ydGpldGV4dHJhY3RvcnMiOiBbImpldHByb3h5Oi8vaHR0cDovL25tc3RyZWFtaW5nLmxpdmU6MjU0NjEvcmVzdHJlYW1pcHR2L0VZVGJ3Z0hEOEsvMTcyMjQoVVMgfCBTaG93dGltZSBTaG93Y2FzZSBIRCAtIFtDT0xPUmxpbWVdKG5tc3RyKVsvQ09MT1JdKSJdfQ==
 
-#EXTINF:-1 group-title="movies"tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/Showtime.png",SHOWTIME WEST
+#EXTINF:-1 group-title="movies"tvg-id="Showtime.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/Showtime.png",SHOWTIME WEST
 plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IFNob3d0aW1lIFdlc3QgSERbL0NPTE9SXSIsICJ0aHVtYm5haWwiOiAiIiwgInNwb3J0amV0ZXh0cmFjdG9ycyI6IFsiamV0cHJveHk6Ly9odHRwOi8vbm1zdHJlYW1pbmcubGl2ZToyNTQ2MS9yZXN0cmVhbWlwdHYvRVlUYndnSEQ4Sy8xNzIyMyhVUyB8IFNob3d0aW1lIFdlc3QgSEQgLSBbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSkiXX0=
 
-#EXTINF:-1 group-title="movies"tvg-id="" tvg-logo="https://i2-prod.mirror.co.uk/incoming/article5525973.ece/ALTERNATES/s615b/Spike-MAIN.jpg",SPIKE TV
+#EXTINF:-1 group-title="movies"tvg-id="5812bcc8237a6ff45d16c407" tvg-logo="https://i2-prod.mirror.co.uk/incoming/article5525973.ece/ALTERNATES/s615b/Spike-MAIN.jpg",SPIKE TV
 plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IFNwaWtlIFRWWy9DT0xPUl0iLCAidGh1bWJuYWlsIjogIiIsICJzcG9ydGpldGV4dHJhY3RvcnMiOiBbImpldHByb3h5Oi8vaHR0cDovL25tc3RyZWFtaW5nLmxpdmU6MjU0NjEvcmVzdHJlYW1pcHR2L0VZVGJ3Z0hEOEsvMTcyMTgoVVMgfCBTcGlrZSBUViAtIFtDT0xPUmxpbWVdKG5tc3RyKVsvQ09MT1JdKSJdfQ==
 
 #EXTINF:-1 group-title="movies"tvg-id="Starz.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/StarZ.png",STARZ
 plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddyhd.com%2F%2Fstream%2Fstream-335.php
 
-#EXTINF:-1 group-title="movies"tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/StarZ.png",STARZ CINEMA
-plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IFN0YXJ6IENpbmVtYVsvQ09MT1JdIiwgInRodW1ibmFpbCI6ICIiLCAic3BvcnRqZXRleHRyYWN0b3JzIjogWyJqZXRwcm94eTovL2h0dHA6Ly9ubXN0cmVhbWluZy5saXZlOjI1NDYxL3Jlc3RyZWFtaXB0di9FWVRid2dIRDhLLzE5NjQxMShVUyB8IFN0YXJ6IENpbmVtYSAtIFtDT0xPUmxpbWVdKG5tc3RyKVsvQ09MT1JdKSJdfQ==
-
-#EXTINF:-1 group-title="movies"tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/StarZ.png",STARZ COMEDY
-plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IFN0YXJ6IENvbWVkeSBIRFsvQ09MT1JdIiwgInRodW1ibmFpbCI6ICIiLCAic3BvcnRqZXRleHRyYWN0b3JzIjogWyJqZXRwcm94eTovL2h0dHA6Ly9ubXN0cmVhbWluZy5saXZlOjI1NDYxL3Jlc3RyZWFtaXB0di9FWVRid2dIRDhLLzE3MjE2KFVTIHwgU3RhcnogQ29tZWR5IEhEIC0gW0NPTE9SbGltZV0obm1zdHIpWy9DT0xPUl0pIl19
-
-#EXTINF:-1 group-title="movies"tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/StarZ.png",STARZ EDGE
-plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IFN0YXJ6IEVkZ2UgSERbL0NPTE9SXSIsICJ0aHVtYm5haWwiOiAiIiwgInNwb3J0amV0ZXh0cmFjdG9ycyI6IFsiamV0cHJveHk6Ly9odHRwOi8vbm1zdHJlYW1pbmcubGl2ZToyNTQ2MS9yZXN0cmVhbWlwdHYvRVlUYndnSEQ4Sy8xNzMwOShVUyB8IFN0YXJ6IEVkZ2UgSEQgLSBbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSkiXX0=
-
-#EXTINF:-1 group-title="movies"tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/StarZ.png",STARZ ENCORE BLACK
-plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IFN0YXJ6IEVuY29yZSBCbGFjayBIRFsvQ09MT1JdIiwgInRodW1ibmFpbCI6ICIiLCAic3BvcnRqZXRleHRyYWN0b3JzIjogWyJqZXRwcm94eTovL2h0dHA6Ly9ubXN0cmVhbWluZy5saXZlOjI1NDYxL3Jlc3RyZWFtaXB0di9FWVRid2dIRDhLLzE5NzIyNihVUyB8IFN0YXJ6IEVuY29yZSBCbGFjayBIRCAtIFtDT0xPUmxpbWVdKG5tc3RyKVsvQ09MT1JdKSJdfQ==
-
-#EXTINF:-1 group-title="movies"tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/StarZ.png",STARZ ENCORE CLASSIC
-plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IFN0YXJ6IEVuY29yZSBDbGFzc2ljIEhEWy9DT0xPUl0iLCAidGh1bWJuYWlsIjogIiIsICJzcG9ydGpldGV4dHJhY3RvcnMiOiBbImpldHByb3h5Oi8vaHR0cDovL25tc3RyZWFtaW5nLmxpdmU6MjU0NjEvcmVzdHJlYW1pcHR2L0VZVGJ3Z0hEOEsvMTk5NzY1KFVTIHwgU3RhcnogRW5jb3JlIENsYXNzaWMgSEQgLSBbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSkiXX0=
-
-#EXTINF:-1 group-title="movies"tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/StarZ.png",STARZ ENCORE FAMILY
-plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IFN0YXJ6IEVuY29yZSBGYW1pbHkgSERbL0NPTE9SXSIsICJ0aHVtYm5haWwiOiAiIiwgInNwb3J0amV0ZXh0cmFjdG9ycyI6IFsiamV0cHJveHk6Ly9odHRwOi8vbm1zdHJlYW1pbmcubGl2ZToyNTQ2MS9yZXN0cmVhbWlwdHYvRVlUYndnSEQ4Sy8xOTcyMjcoVVMgfCBTdGFyeiBFbmNvcmUgRmFtaWx5IEhEIC0gW0NPTE9SbGltZV0obm1zdHIpWy9DT0xPUl0pIl19
-
-#EXTINF:-1 group-title="movies"tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/StarZ.png",STARZ ENCORE HD
-plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IFN0YXJ6IEVuY29yZSBIRFsvQ09MT1JdIiwgInRodW1ibmFpbCI6ICIiLCAic3BvcnRqZXRleHRyYWN0b3JzIjogWyJqZXRwcm94eTovL2h0dHA6Ly9ubXN0cmVhbWluZy5saXZlOjI1NDYxL3Jlc3RyZWFtaXB0di9FWVRid2dIRDhLLzE3MjIyKFVTIHwgU3RhcnogRW5jb3JlIEhEIC0gW0NPTE9SbGltZV0obm1zdHIpWy9DT0xPUl0pIl19
-
-#EXTINF:-1 group-title="movies"tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/StarZ.png",STARZ ENCORE SUSPENSE
-plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IFN0YXJ6IEVuY29yZSBTdXNwZW5zZVsvQ09MT1JdIiwgInRodW1ibmFpbCI6ICIiLCAic3BvcnRqZXRleHRyYWN0b3JzIjogWyJqZXRwcm94eTovL2h0dHA6Ly9ubXN0cmVhbWluZy5saXZlOjI1NDYxL3Jlc3RyZWFtaXB0di9FWVRid2dIRDhLLzE5NjQxMihVUyB8IFN0YXJ6IEVuY29yZSBTdXNwZW5zZSAtIFtDT0xPUmxpbWVdKG5tc3RyKVsvQ09MT1JdKSJdfQ==
-
-#EXTINF:-1 group-title="movies"tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/StarZ.png",STARZ ENCORE WEST
-plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IFN0YXJ6IEVuY29yZSBXZXN0IEhEWy9DT0xPUl0iLCAidGh1bWJuYWlsIjogIiIsICJzcG9ydGpldGV4dHJhY3RvcnMiOiBbImpldHByb3h5Oi8vaHR0cDovL25tc3RyZWFtaW5nLmxpdmU6MjU0NjEvcmVzdHJlYW1pcHR2L0VZVGJ3Z0hEOEsvMTk3MjMxKFVTIHwgU3RhcnogRW5jb3JlIFdlc3QgSEQgLSBbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSkiXX0=
-
-#EXTINF:-1 group-title="movies"tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/StarZ.png",STARZ ENCORE WESTERNS
-plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IFN0YXJ6IEVuY29yZSBXZXN0ZXJucyBIRFsvQ09MT1JdIiwgInRodW1ibmFpbCI6ICIiLCAic3BvcnRqZXRleHRyYWN0b3JzIjogWyJqZXRwcm94eTovL2h0dHA6Ly9ubXN0cmVhbWluZy5saXZlOjI1NDYxL3Jlc3RyZWFtaXB0di9FWVRid2dIRDhLLzE5NjQxNChVUyB8IFN0YXJ6IEVuY29yZSBXZXN0ZXJucyBIRCAtIFtDT0xPUmxpbWVdKG5tc3RyKVsvQ09MT1JdKSJdfQ==
-
-#EXTINF:-1 group-title="movies"tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/StarZ.png",STARZ HD
+#EXTINF:-1 group-title="movies"tvg-id="Starz.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/StarZ.png",STARZ HD
 plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IFN0YXJ6IEhEWy9DT0xPUl0iLCAidGh1bWJuYWlsIjogIiIsICJzcG9ydGpldGV4dHJhY3RvcnMiOiBbImpldHByb3h5Oi8vaHR0cDovL25tc3RyZWFtaW5nLmxpdmU6MjU0NjEvcmVzdHJlYW1pcHR2L0VZVGJ3Z0hEOEsvMTcyMjEoVVMgfCBTdGFyeiBIRCAtIFtDT0xPUmxpbWVdKG5tc3RyKVsvQ09MT1JdKSJdfQ==
 
-#EXTINF:-1 group-title="movies"tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/StarZ.png",STARZ KIDS FAMILY
+#EXTINF:-1 group-title="movies"tvg-id="Starz Cinema.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/StarZ.png",STARZ CINEMA
+plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IFN0YXJ6IENpbmVtYVsvQ09MT1JdIiwgInRodW1ibmFpbCI6ICIiLCAic3BvcnRqZXRleHRyYWN0b3JzIjogWyJqZXRwcm94eTovL2h0dHA6Ly9ubXN0cmVhbWluZy5saXZlOjI1NDYxL3Jlc3RyZWFtaXB0di9FWVRid2dIRDhLLzE5NjQxMShVUyB8IFN0YXJ6IENpbmVtYSAtIFtDT0xPUmxpbWVdKG5tc3RyKVsvQ09MT1JdKSJdfQ==
+
+#EXTINF:-1 group-title="movies"tvg-id="Starz Comedy.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/StarZ.png",STARZ COMEDY
+plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IFN0YXJ6IENvbWVkeSBIRFsvQ09MT1JdIiwgInRodW1ibmFpbCI6ICIiLCAic3BvcnRqZXRleHRyYWN0b3JzIjogWyJqZXRwcm94eTovL2h0dHA6Ly9ubXN0cmVhbWluZy5saXZlOjI1NDYxL3Jlc3RyZWFtaXB0di9FWVRid2dIRDhLLzE3MjE2KFVTIHwgU3RhcnogQ29tZWR5IEhEIC0gW0NPTE9SbGltZV0obm1zdHIpWy9DT0xPUl0pIl19
+
+#EXTINF:-1 group-title="movies"tvg-id="Starz Edge.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/StarZ.png",STARZ EDGE
+plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IFN0YXJ6IEVkZ2UgSERbL0NPTE9SXSIsICJ0aHVtYm5haWwiOiAiIiwgInNwb3J0amV0ZXh0cmFjdG9ycyI6IFsiamV0cHJveHk6Ly9odHRwOi8vbm1zdHJlYW1pbmcubGl2ZToyNTQ2MS9yZXN0cmVhbWlwdHYvRVlUYndnSEQ4Sy8xNzMwOShVUyB8IFN0YXJ6IEVkZ2UgSEQgLSBbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSkiXX0=
+
+#EXTINF:-1 group-title="movies"tvg-id="Starz Encore Black.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/StarZ.png",STARZ ENCORE BLACK
+plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IFN0YXJ6IEVuY29yZSBCbGFjayBIRFsvQ09MT1JdIiwgInRodW1ibmFpbCI6ICIiLCAic3BvcnRqZXRleHRyYWN0b3JzIjogWyJqZXRwcm94eTovL2h0dHA6Ly9ubXN0cmVhbWluZy5saXZlOjI1NDYxL3Jlc3RyZWFtaXB0di9FWVRid2dIRDhLLzE5NzIyNihVUyB8IFN0YXJ6IEVuY29yZSBCbGFjayBIRCAtIFtDT0xPUmxpbWVdKG5tc3RyKVsvQ09MT1JdKSJdfQ==
+
+#EXTINF:-1 group-title="movies"tvg-id="Starz Encore Classic.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/StarZ.png",STARZ ENCORE CLASSIC
+plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IFN0YXJ6IEVuY29yZSBDbGFzc2ljIEhEWy9DT0xPUl0iLCAidGh1bWJuYWlsIjogIiIsICJzcG9ydGpldGV4dHJhY3RvcnMiOiBbImpldHByb3h5Oi8vaHR0cDovL25tc3RyZWFtaW5nLmxpdmU6MjU0NjEvcmVzdHJlYW1pcHR2L0VZVGJ3Z0hEOEsvMTk5NzY1KFVTIHwgU3RhcnogRW5jb3JlIENsYXNzaWMgSEQgLSBbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSkiXX0=
+
+#EXTINF:-1 group-title="movies"tvg-id="Starz Encore Family.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/StarZ.png",STARZ ENCORE FAMILY
+plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IFN0YXJ6IEVuY29yZSBGYW1pbHkgSERbL0NPTE9SXSIsICJ0aHVtYm5haWwiOiAiIiwgInNwb3J0amV0ZXh0cmFjdG9ycyI6IFsiamV0cHJveHk6Ly9odHRwOi8vbm1zdHJlYW1pbmcubGl2ZToyNTQ2MS9yZXN0cmVhbWlwdHYvRVlUYndnSEQ4Sy8xOTcyMjcoVVMgfCBTdGFyeiBFbmNvcmUgRmFtaWx5IEhEIC0gW0NPTE9SbGltZV0obm1zdHIpWy9DT0xPUl0pIl19
+
+#EXTINF:-1 group-title="movies"tvg-id="Starz Encore.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/StarZ.png",STARZ ENCORE WEST
+plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IFN0YXJ6IEVuY29yZSBXZXN0IEhEWy9DT0xPUl0iLCAidGh1bWJuYWlsIjogIiIsICJzcG9ydGpldGV4dHJhY3RvcnMiOiBbImpldHByb3h5Oi8vaHR0cDovL25tc3RyZWFtaW5nLmxpdmU6MjU0NjEvcmVzdHJlYW1pcHR2L0VZVGJ3Z0hEOEsvMTk3MjMxKFVTIHwgU3RhcnogRW5jb3JlIFdlc3QgSEQgLSBbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSkiXX0=
+
+#EXTINF:-1 group-title="movies"tvg-id="Starz Encore.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/StarZ.png",STARZ ENCORE HD
+plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IFN0YXJ6IEVuY29yZSBIRFsvQ09MT1JdIiwgInRodW1ibmFpbCI6ICIiLCAic3BvcnRqZXRleHRyYWN0b3JzIjogWyJqZXRwcm94eTovL2h0dHA6Ly9ubXN0cmVhbWluZy5saXZlOjI1NDYxL3Jlc3RyZWFtaXB0di9FWVRid2dIRDhLLzE3MjIyKFVTIHwgU3RhcnogRW5jb3JlIEhEIC0gW0NPTE9SbGltZV0obm1zdHIpWy9DT0xPUl0pIl19
+
+#EXTINF:-1 group-title="movies"tvg-id="Starz Encore Suspense.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/StarZ.png",STARZ ENCORE SUSPENSE
+plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IFN0YXJ6IEVuY29yZSBTdXNwZW5zZVsvQ09MT1JdIiwgInRodW1ibmFpbCI6ICIiLCAic3BvcnRqZXRleHRyYWN0b3JzIjogWyJqZXRwcm94eTovL2h0dHA6Ly9ubXN0cmVhbWluZy5saXZlOjI1NDYxL3Jlc3RyZWFtaXB0di9FWVRid2dIRDhLLzE5NjQxMihVUyB8IFN0YXJ6IEVuY29yZSBTdXNwZW5zZSAtIFtDT0xPUmxpbWVdKG5tc3RyKVsvQ09MT1JdKSJdfQ==
+
+#EXTINF:-1 group-title="movies"tvg-id="Starz Encore Westerns.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/StarZ.png",STARZ ENCORE WESTERNS
+plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IFN0YXJ6IEVuY29yZSBXZXN0ZXJucyBIRFsvQ09MT1JdIiwgInRodW1ibmFpbCI6ICIiLCAic3BvcnRqZXRleHRyYWN0b3JzIjogWyJqZXRwcm94eTovL2h0dHA6Ly9ubXN0cmVhbWluZy5saXZlOjI1NDYxL3Jlc3RyZWFtaXB0di9FWVRid2dIRDhLLzE5NjQxNChVUyB8IFN0YXJ6IEVuY29yZSBXZXN0ZXJucyBIRCAtIFtDT0xPUmxpbWVdKG5tc3RyKVsvQ09MT1JdKSJdfQ==
+
+#EXTINF:-1 group-title="movies"tvg-id="Starz Kids &amp; Family.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/StarZ.png",STARZ KIDS FAMILY
 plugin://plugin.video.madtitansports/play_video/eyJ0eXBlIjogIml0ZW0iLCAidGl0bGUiOiAiW0NPTE9ScmVkXShbQ09MT1JsaW1lXShubXN0cilbL0NPTE9SXSlVUyB8IFN0YXJ6IEtpZHMgJiBGYW1pbHlbL0NPTE9SXSIsICJ0aHVtYm5haWwiOiAiIiwgInNwb3J0amV0ZXh0cmFjdG9ycyI6IFsiamV0cHJveHk6Ly9odHRwOi8vbm1zdHJlYW1pbmcubGl2ZToyNTQ2MS9yZXN0cmVhbWlwdHYvRVlUYndnSEQ4Sy8yMTA3Njc3KFVTIHwgU3RhcnogS2lkcyAmIEZhbWlseSAtIFtDT0xPUmxpbWVdKG5tc3RyKVsvQ09MT1JdKSJdfQ==
 
 #EXTINF:-1 group-title="sports"tvg-id="CBS Sports Network.us2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/CBSSN.png",CBS SPORTS NETWORK
@@ -345,5 +345,5 @@ plugin://plugin.video.madtitansports/airtable/jen/game2|SOCCER|appAixUSjENO2TX9W
 #EXTINF:-1 group-title="SPORTS TV GUIDE" tvg-logo="https://magnetic1.ratpack.appboxes.co/jet/PICS/icons/soccer.png" tv-name="[COLORaqua][B]Campeonato Paulista[/COLOR] |[COLORyellow] 01/19 07:30 PM[/COLOR]| Botafogo SP - Palmeiras (Campeonato Paulista) [/B]",[COLORaqua][B]Campeonato Paulista[/COLOR] |[COLORyellow] 01/19 07:30 PM[/COLOR]| Botafogo SP - Palmeiras (Campeonato Paulista) [/B]
 plugin://plugin.video.madtitansports/airtable/jen/game2|SOCCER|appAixUSjENO2TX9W|Botafogo SP - Palmeiras (Campeonato Paulista)***keykKra5bHtU3ejar
 
-#EXTINF:-1 group-title="PLUTO TV" tvg-id="5b4e99f4423e067bd6df6903" tvg-logo="https://images.pluto.tv/channels/5b4e99f4423e067bd6df6903/colorLogoPNG.png",Gordon Ramsay's Hell's Kitchen TEST
+#EXTINF:-1 group-title="PLUTO TV" tvg-id="5b4e99f4423e067bd6df6903" tvg-logo="https://images.pluto.tv/channels/5b4e99f4423e067bd6df6903/colorLogoPNG.png",Gordon Ramsay's Hell's Kitchen
 plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https%3A%2F%2Fservice-stitcher-ipv4.clusters.pluto.tv%2Fstitch%2Fhls%2Fchannel%2F5b4e99f4423e067bd6df6903%2Fmaster.m3u8%3FadvertisingId%3D%26appName%3Dweb%26appVersion%3D5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba%26architecture%3D%26buildVersion%3D%26clientTime%3D%26deviceDNT%3D0%26deviceId%3D58f53c8c-471a-40ea-bee7-814c1adffe7f%26deviceLat%3D33.7029%26deviceLon%3D-117.1966%26deviceMake%3DChrome%26deviceModel%3DChrome%26deviceType%3Dweb%26deviceVersion%3D80.0.3987.149%26includeExtendedEvents%3Dfalse%26marketingRegion%3DUS%26sid%3D74fef7b4-3dd6-11ed-a5f4-dca632884a02%26userId%3D
